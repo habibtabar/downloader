@@ -1,4 +1,10 @@
-# 🚀 دانلود کننده فایل ها
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.webp" width="100" alt="wide-2" />
+</div>
+
+ 
+ 
+## 🚀دانلود کننده فایل ها
 
 > - دانلود کننده هر فایلی از هرکجا درون گیتهاب شما  
 > - پشتیبانی از فایل های بزرگ با تقسیم کردن فایل به فایلهای ۹۰ مگابایتی ( بعلت محدودیت های گیتهاب )
