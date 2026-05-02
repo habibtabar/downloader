@@ -1,0 +1,3 @@
+//error.c.cdn77.org/
+css/main.css
+img/favicon.ico
